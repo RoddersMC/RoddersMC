@@ -3,7 +3,7 @@
 **`QA Engineer/Business Analyst/Product Owner`**
 
 ## About
-Started my Career as an Manual Tester, and then transitioned into Test Automation and Performance testing. However, I made the horizontal move into being a Data Business Analyst and then a further move into management as a Product Owner. Despite this, my focus has not been far from development and tech, and I now wish to get back into the more Quality Assurance related areas of work: with a focus on performance and resllience testing cloud platforms, and using QA as a point to leverage better processes and DevOps changes.
+Started my career as an Manual Tester, and then transitioned into test automation and performance testing in Java. However, I made the horizontal move into being a Data Business Analyst and then a further move into management as a Technical Product Owner. Despite this, my focus has not been far from development and tech, and I now wish to get back into Quality Assurance roles: with a focus on performance and resilliancy testing cloud platforms, and using QA as a point to leverage better processes and DevOps changes.
 
 ## History
 <ul style="list-style: none;">
