@@ -16,38 +16,38 @@ Started my Career as an Manual Tester, and then transitioned into Test Automatio
 
 ## Languages and Tools
 <!--all images were retrieved from https://devicon.dev/-->
-<img alt="java" width="30px" style="align: right; padding-right: 20px;"
+<img align="left" alt="java" width="30px" style="padding-right: 20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img alt="python" width="30px" style="padding-right:20px;"
+<img align="left" alt="python" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img alt="bash" width="30px" style="padding-right:20px"
+<img align="left" alt="bash" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img alt="git" width="30px" style="padding-right:20px"
+<img align="left" alt="git" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img alt="html" width="30px" style="padding-right:20px"
+<img align="left" alt="html" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img alt="css" width="30px" style="padding-right:20px"
+<img align="left" alt="css" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img alt="jira" width="30px" style="padding-right:20px"
+<img align="left" alt="jira" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img alt="confluence" width="30px" style="padding-right:20px"
+<img align="left" alt="confluence" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
-<img alt="vscode" width="30px" style="padding-right:20px"
+<img align="left" alt="vscode" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="aws" width="30px" style="padding-right:20px"
+<img align="left" alt="aws" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br/>
 
 ## Learning
 
 <!--all images were retrieved from https://devicon.dev/-->
-<img alt="javascript" width="30px" style="padding-right:20px;"
+<img align="left" alt="javascript" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img alt="typescript" width="30px" style="padding-right:20px;"
+<img align="left" alt="typescript" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img alt="react" width="30px" style="padding-right:20px"
+<img align="left" alt="react" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="docker" width="30px" style="padding-right:20px;"
+<img align="left" alt="docker" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 ## Stats
