@@ -16,7 +16,7 @@ Started my Career as an Manual Tester, and then transitioned into Test Automatio
 
 ## Languages and Tools
 <!--all images were retrieved from https://devicon.dev/-->
-<img alt="java" width="30px" style="padding-right: 20px;"
+<img alt="java" width="30px" style="align: right; padding-right: 20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img alt="python" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
