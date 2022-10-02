@@ -20,8 +20,6 @@ Started my Career as an Manual Tester, and then transitioned into Test Automatio
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="bash" width="30px" style="padding-right:20px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="html" width="30px" style="padding-right:20px"
@@ -51,8 +49,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddersmc&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddersmc&theme=tokyonight&count_private=true)
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddersmc&show_icons=true&theme=tokyonight)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddersmc&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=roddersmc&theme=tokyonight&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=roddersmc&theme=tokyonight&border_radius=4.5&count_private=true)
