@@ -47,6 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-pl
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:20px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<br />
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddersmc&theme=tokyonight&count_private=true&layout=compact)
